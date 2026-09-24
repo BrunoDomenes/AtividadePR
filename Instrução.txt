@@ -1,0 +1,8 @@
+Selecionar a pasta que vc queira criar o nome
+Criar um arquivo com seu nome da pasta
+Executar os comandos para enviar este arquivo para sua pasta
+abrir o github
+enviar o pull request para o projeto principal
+realizar a sincronização do fork
+
+verificar se esta tudo certo.
